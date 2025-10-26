@@ -17,7 +17,7 @@ We used the YouTube Data API v3 to collect video information and analyze trends 
    *Hypothesis:* Classical music videos have higher average view counts than math tutorials.  
    *Result:* Failed to reject the null hypothesis, no significant difference.
 
-   2. **Are fitness videos getting higher like counts than vlogging videos?**  
+2. **Are fitness videos getting higher like counts than vlogging videos?**  
    *Hypothesis:* Travel vlogs receive higher average like counts than Pilates fitness videos.  
    *Result:* Reject the null, we have enough evidence to support the hypothesis
 
